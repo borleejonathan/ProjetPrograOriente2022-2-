@@ -1,0 +1,15 @@
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\test 1.csproj.AssemblyReference.cache
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\test 1.AssemblyInfoInputs.cache
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\test 1.AssemblyInfo.cs
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\test 1.csproj.CoreCompileInputs.cache
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\bin\Debug\net6.0\test 1.exe
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\bin\Debug\net6.0\test 1.deps.json
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\bin\Debug\net6.0\test 1.runtimeconfig.json
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\bin\Debug\net6.0\test 1.dll
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\bin\Debug\net6.0\test 1.pdb
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\test 1.dll
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\refint\test 1.dll
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\test 1.pdb
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\test 1.genruntimeconfig.cache
+C:\Users\borle\OneDrive - ECAM\Documents\Mes codes\test 1\test 1\obj\Debug\net6.0\ref\test 1.dll
